@@ -1,0 +1,3 @@
+﻿  Main.cpp
+d:\c++作业\work11_18vector\work11_18vector\main.cpp(44): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+  work11_18vector.vcxproj -> D:\c++作业\work11_18vector\Debug\work11_18vector.exe
