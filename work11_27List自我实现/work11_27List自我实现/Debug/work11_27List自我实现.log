@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\c++作业\work11_27list自我实现\work11_27list自我实现\list.hpp(56): warning C4172: 返回局部变量或临时变量的地址: tmp
+  work11_27List自我实现.vcxproj -> D:\c++作业\work11_27List自我实现\Debug\work11_27List自我实现.exe
